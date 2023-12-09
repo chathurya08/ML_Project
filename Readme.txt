@@ -29,4 +29,3 @@ Please go to: http://127.0.0.1:8000/docs#/default/Detector
 The web interface has a form where you can enter a URL to check whether it is a phishing site or not.
 Click on 'Try it Out' then enter the URL you want to test.
 
-Link to video : https://drive.google.com/drive/folders/1aRil4MAZU5z_PlU7GPMp4A3uMV_IECfm?usp=sharing
